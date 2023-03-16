@@ -1,7 +1,8 @@
 # VSLive 2023
 
-![This is an image](schedule.png)
+<img src="schedule.png" width="600">
 
-- [Files from conference](https://github.com/vslive2023/vslive2023.github.io/tree/main/vslive)
+- <a href="https://vslive.com/events/las-vegas-2023/sessions/session-list.aspx" target="_blank">Full agenda</a>
+- <a href="https://github.com/vslive2023/vslive2023.github.io/tree/main/vslive" target="_blank">Files from conference</a>
 
 
