@@ -1,3 +1,5 @@
-# vslive 2023
+# VSLive 2023
 
-Files from conference
+- [Files from conference](https://vslive2023.github.io/vslive)
+
+
