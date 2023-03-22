@@ -4,7 +4,7 @@
 - <a href="https://github.com/vslive2023/vslive2023.github.io/tree/main/vslive" target="_blank">Files from conference</a>
 
 ### C# 
-HOL01 - Asynchronous and Parallel Programming in C#
-W03 - Catching Up with Interfaces in C#: What You Know Might be Wrong
-- https://github.com/jeremybytes/vslive2023-lasvegas
+- HOL01 - Asynchronous and Parallel Programming in C#
+- W03 - Catching Up with Interfaces in C#: What You Know Might be Wrong
+- See https://github.com/jeremybytes/vslive2023-lasvegas
 
