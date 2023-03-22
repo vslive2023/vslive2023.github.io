@@ -5,6 +5,9 @@
 
 ### Visual Studio Updates
 
+### Azure SQL Database
+- See http://aka.ms/VSLive23Demo
+
 ### C# 
 ##### T04 What's New in C#
 - See https://github.com/idg10/vslivevegas2023demos
