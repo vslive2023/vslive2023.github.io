@@ -16,3 +16,16 @@
 ##### W03 - Catching Up with Interfaces in C#: What You Know Might be Wrong
 - See https://github.com/jeremybytes/vslive2023-lasvegas
 
+### JS
+
+https://github.com/vslive2023/vslive2023.github.io/blob/main/vslive/W08_Fast%20FocusJavaScriptFrameworkLibraryShowdown_Conway.pdf
+
+### Chat GPT
+
+https://openai.com/blog/chatgpt 
+
+
+
+
+
+
