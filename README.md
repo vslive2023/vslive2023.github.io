@@ -23,9 +23,10 @@
 - <a href="https://github.com/vslive2023/vslive2023.github.io/blob/main/vslive/W08_Fast%20FocusJavaScriptFrameworkLibraryShowdown_Conway.pdf" target="_blank">JavaScriptFrameworkLibraryShowdown</a>
 
 ### Chat GPT
+- <a href="https://attachments.1105media.com/Attachments/VSLive/Events/Las%20Vegas%202023/Sessions/Wednesday/W11_FastFocus10ThingsDevelopersNeedtoKnowAboutChatGPT_Nagel.pdf" target="_blank">W11 Fast Focus: 10 Things Developers Need To Know About ChatGPT</a>
 - <a href="https://openai.com/blog/chatgpt " target="_blank">chatgpt</a>
 
-
-
+### Other
+- <a href="https://attachments.1105media.com/Attachments/VSLive/Events/Las%20Vegas%202023/Sessions/Wednesday/W11_FastFocus10ThingsDevelopersNeedtoKnowAboutChatGPT_Nagel.pdf" target="_blank">TH06 Build Apps Faster with GitHub Codespaces</a>
 
 
